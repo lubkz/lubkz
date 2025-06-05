@@ -31,6 +31,7 @@ Em breve, irei destacar projetos com análise de dados em Python, ferramentas we
 
 ## 📬 Contato
 
+- [LinkedIn](https://www.linkedin.com/in/lucas-milfont-806b88279)
 - Instagram: [@lukrasz](https://instagram.com/lukrasz)  
 - E-mail: lucaslivir@gmail.com  
 
