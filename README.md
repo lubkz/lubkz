@@ -1,20 +1,39 @@
-🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Sou Lucas (lubkz) — estudante de Engenharia Mecânica com interesse crescente em programação, especialmente em Python e desenvolvimento web.
+Olá! Sou Lucas (lubkz), estudante de Engenharia Mecânica com forte interesse em programação — especialmente com **Python** e **desenvolvimento web**.
 
-Atualmente estudo e desenvolvo projetos com foco em:
+---
 
-Python (Pandas, lógica de programação, automação, scripts para terminal)
+## 📚 Trajetória
 
-Desenvolvimento web (HTML, CSS, JS básico e ferramentas em Flask)
+Meu primeiro contato com lógica de programação foi ainda antes da faculdade, desenvolvendo jogos simples no **Game Maker 2** por curiosidade. Depois, consolidei esse conhecimento com a disciplina de **Lógica de Programação**, onde trabalhei com **Python** e desenvolvi pequenos projetos e desafios.
 
-Ambientes de desenvolvimento como VSCode e PyCharm
+Hoje continuo estudando de forma autônoma, criando ferramentas e scripts em Python e explorando **desenvolvimento web** e **jogos com Godot Engine** (2D e 3D). Mesmo projetos não finalizados me ajudam a testar ideias e aprender.
 
+---
 
-Busco adquirir experiência prática, colaborando em projetos e criando ferramentas que possam resolver problemas reais. Estou em constante aprendizado e aberto a colaborações.
+## 🧰 Tecnologias e ferramentas
 
-📬 Contato:
+- **Python** (Pandas, automações, lógica, manipulação de arquivos)
+- **HTML/CSS/JavaScript** (básico)
+- **Flask** (web backend)
+- **Godot Engine** (2D/3D)
+- **VSCode / PyCharm**
+- **Git/GitHub**
 
-Instagram: @lukrasz
+---
 
-E-mail: lucaslivir@gmail.com
+## 🚀 Projetos em destaque
+
+Em breve, irei destacar projetos com análise de dados em Python, ferramentas web simples e scripts de automação.
+
+---
+
+## 📬 Contato
+
+- Instagram: [@lukrasz](https://instagram.com/lukrasz)  
+- E-mail: lucaslivir@gmail.com  
+
+---
+
+📝 *Curiosidade*: Nunca vemos nosso próprio rosto — apenas reflexos ou imagens dele.
