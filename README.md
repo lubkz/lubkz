@@ -1,15 +1,20 @@
-Olá, sou @lubkz. 
+🧑‍💻 Sobre mim
 
-Tenho grande interesse em programação, especialmente no desenvolvimento web. Atualmente, estou aprendendo Python com o Pycharm e também estou explorando HTML, Java e CSS. 
+Olá! Sou Lucas (lubkz) — estudante de Engenharia Mecânica com interesse crescente em programação, especialmente em Python e desenvolvimento web.
 
-Estou disponível para colaborar em projetos, pois busco adquirir mais experiência para meu portfólio. 
+Atualmente estudo e desenvolvo projetos com foco em:
 
-Para entrar em contato, pode me procurar no Instagram (@Lukrasz) ou por e-mail (lucaslivir@gmai.com).
+Python (Pandas, lógica de programação, automação, scripts para terminal)
 
-Pronome: Ro/ck.
+Desenvolvimento web (HTML, CSS, JS básico e ferramentas em Flask)
 
-Curiosidade: Nunca podemos ver nosso próprio rosto, apenas reflexões ou imagens dele.
-<!---
-lubkz/lubkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ambientes de desenvolvimento como VSCode e PyCharm
+
+
+Busco adquirir experiência prática, colaborando em projetos e criando ferramentas que possam resolver problemas reais. Estou em constante aprendizado e aberto a colaborações.
+
+📬 Contato:
+
+Instagram: @lukrasz
+
+E-mail: lucaslivir@gmail.com
